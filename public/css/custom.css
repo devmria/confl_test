@@ -1,0 +1,51 @@
+/* Custom styles for Confluence Documentation Hugo site */
+
+/* Sidebar active item styling */
+.hextra-sidebar-active-item {
+  @apply hx:bg-primary-100 hx:dark:bg-primary-800/20;
+  @apply hx:text-primary-800 hx:dark:text-primary-200;
+  @apply hx:font-semibold;
+  @apply hx:border-l-4 hx:border-primary-500;
+  @apply hx:pl-3;
+}
+
+/* Enhanced sidebar link hover state */
+.hextra-sidebar-list a:hover {
+  @apply hx:bg-gray-100 hx:dark:bg-gray-800;
+  @apply hx:transition-colors hx:duration-200;
+}
+
+/* Active page in sidebar - additional highlight */
+.hextra-sidebar-list a[aria-current="page"] {
+  @apply hx:bg-primary-50 hx:dark:bg-primary-900/30;
+  @apply hx:text-primary-700 hx:dark:text-primary-300;
+  @apply hx:font-medium;
+  @apply hx:border-l-4 hx:border-primary-600;
+  @apply hx:pl-3;
+}
+
+/* Sidebar submenu active item */
+.hextra-sidebar-list ul a[aria-current="page"] {
+  @apply hx:ml-2;
+}
+
+/* Footer custom styling */
+.hextra-custom-footer {
+  @apply hx:mx-auto;
+}
+
+/* Search results highlight */
+.hextra-search-results mark {
+  @apply hx:bg-yellow-200 hx:dark:bg-yellow-800;
+  @apply hx:text-black hx:dark:text-white;
+  @apply hx:px-1 hx:rounded;
+}
+
+/* Theme toggle button enhancement */
+button[aria-label*="theme" i] {
+  @apply hx:transition-transform hx:duration-200;
+}
+
+button[aria-label*="theme" i]:hover {
+  @apply hx:scale-110;
+}

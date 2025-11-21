@@ -1,0 +1,14 @@
+{{- $context := .context -}}
+<div class="hx:mx-auto hx:flex hx:max-w-[90rem] hx:justify-start hx:py-12 hx:text-gray-600 hx:dark:text-gray-400 hx:md:justify-start">
+  <div class="hx:flex hx:w-full hx:flex-col hx:items-center hx:sm:items-start">
+    {{- with $context.Site.Params.footer.title -}}
+      <div class="hx:text-lg hx:font-bold hx:mb-2">{{ . }}</div>
+    {{- end -}}
+    {{- with $context.Site.Params.footer.content -}}
+      <div class="hx:text-sm hx:text-gray-500 hx:dark:text-gray-400">{{ . | markdownify }}</div>
+    {{- end -}}
+    <div class="hx:mt-4 hx:text-xs hx:text-gray-400">
+      © {{ now.Year }} {{ $context.Site.Title }}
+    </div>
+  </div>
+</div>

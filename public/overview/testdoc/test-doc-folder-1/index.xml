@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confluence Documentation – Test Doc Folder 1</title>
+    <link>http://localhost:1313/overview/testdoc/test-doc-folder-1/</link>
+    <description>Recent content in Test Doc Folder 1 on Confluence Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Nov 2025 07:39:47 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/overview/testdoc/test-doc-folder-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Test Doc Folder 1.1</title>
+      <link>http://localhost:1313/overview/testdoc/test-doc-folder-1/test-doc-folder-1-1/</link>
+      <pubDate>Wed, 19 Nov 2025 07:39:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/overview/testdoc/test-doc-folder-1/test-doc-folder-1-1/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Test Doc Folder 1.1&lt;/h1&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

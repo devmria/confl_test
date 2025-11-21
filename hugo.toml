@@ -1,0 +1,89 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Confluence Documentation'
+theme = 'hextra'
+
+enableRobotsTXT = true
+enableGitInfo = false
+hasCJKLanguage = false
+
+# Enable search index generation
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 6
+
+[markup.highlight]
+  noClasses = false
+
+[params]
+  description = "Confluence Documentation"
+
+  # Hextra theme settings
+  navbar.displayTitle = true
+  navbar.displayLogo = false
+
+  page.width = "wide"
+
+  editURL.enable = false
+
+  # Sidebar settings
+  sidebar.collapsed = false
+
+[params.footer]
+  enable = true
+  displayCopyright = false
+  displayPoweredBy = false
+  title = "Confluence Documentation"
+  content = "Documentation powered by Hugo & Hextra"
+
+# Enable search
+[params.search]
+  enable = true
+  type = "flexsearch"
+
+  [params.search.flexsearch]
+    # index page by: content | summary | heading | title
+    index = "content"
+    # full | forward | reverse | strict
+    tokenize = "forward"
+
+# Navigation menu
+[menu]
+[[menu.main]]
+  identifier = "documentation"
+  name = "Documentation"
+  pageRef = "/docs"
+  weight = 1
+
+[[menu.main]]
+  identifier = "getting-started"
+  name = "Getting Started"
+  pageRef = "/docs/getting-started-in-confluence"
+  weight = 2
+
+[[menu.main]]
+  identifier = "test-docs"
+  name = "Test Docs"
+  pageRef = "/docs/testdoc"
+  weight = 3
+
+# Search field in navbar
+[[menu.main]]
+  weight = 4
+  [menu.main.params]
+    type = "search"
+
+# Theme toggle in navbar (right corner)
+[[menu.main]]
+  weight = 5
+  [menu.main.params]
+    type = "theme-toggle"

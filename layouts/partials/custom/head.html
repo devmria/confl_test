@@ -1,0 +1,8 @@
+{{- /* Custom head content */ -}}
+{{- $customCSS := resources.Get "css/custom.css" -}}
+{{- if $customCSS -}}
+  {{- if hugo.IsProduction -}}
+    {{- $customCSS = $customCSS | minify | fingerprint -}}
+  {{- end -}}
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $customCSS.Data.Integrity }}"{{ end }}>
+{{- end -}}
