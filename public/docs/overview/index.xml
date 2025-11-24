@@ -1,0 +1,268 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confluence Documentation – Overview</title>
+    <link>http://localhost:1313/docs/overview/</link>
+    <description>Recent content in Overview on Confluence Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Nov 2025 07:37:54 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>2025-11-19 Meeting notes</title>
+      <link>http://localhost:1313/docs/overview/2025-11-19-meeting-notes/</link>
+      <pubDate>Wed, 19 Nov 2025 12:18:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/overview/2025-11-19-meeting-notes/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;🗓 Date&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;date&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#date&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;👥 Participants&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;participants&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#participants&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Type @ name to mention a person and add them as a meeting attendee - they will be notified&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🥅 Goals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;goals&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#goals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;List goals for this meeting (e.g., Set design priorities for FY27)&lt;/p&gt;
+&lt;h2&gt;🎨 Brainstorm&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;brainstorm&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#brainstorm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Type /whiteboard to create an interactive canvas for icebreakers, brainstorms, diagramming, retros, and more&lt;/p&gt;
+&lt;h2&gt;🗣 Discussion topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;discussion-topics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#discussion-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;852f1eee-451c-4afe-b09d-fc79b0826c73&#34; data-layout=&#34;default&#34; data-table-width=&#34;760&#34;&gt;&lt;colgroup&gt;&lt;col style=&#34;width: 120.0px;&#34;/&gt;&lt;col style=&#34;width: 120.0px;&#34;/&gt;&lt;col style=&#34;width: 195.0px;&#34;/&gt;&lt;col style=&#34;width: 322.0px;&#34;/&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th data-highlight-colour=&#34;#deebff&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;&lt;th data-highlight-colour=&#34;#deebff&#34;&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/th&gt;&lt;th data-highlight-colour=&#34;#deebff&#34;&gt;&lt;strong&gt;Presenter&lt;/strong&gt;&lt;/th&gt;&lt;th data-highlight-colour=&#34;#deebff&#34;&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;@ mention teammate&lt;/td&gt;&lt;td&gt;Add notes for each discussion topic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br/&gt;&lt;/td&gt;&lt;td&gt;&lt;br/&gt;&lt;/td&gt;&lt;td&gt;&lt;br/&gt;&lt;/td&gt;&lt;td&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2&gt;✅ Action items&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;action-items&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#action-items&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;⤴ Decisions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;decisions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#decisions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Type /decision to record the decisions you make in this meeting:&lt;/p&gt;
+&lt;h2&gt;🗃️ Related info&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;related-info&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#related-info&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Type /database to create a database of related information, meetings, or assets&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Meeting notes in space</title>
+      <link>http://localhost:1313/docs/overview/meeting-notes-in-space/</link>
+      <pubDate>Wed, 19 Nov 2025 12:18:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/overview/meeting-notes-in-space/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Incomplete tasks from meetings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;incomplete-tasks-from-meetings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#incomplete-tasks-from-meetings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Decisions from meetings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;decisions-from-meetings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#decisions-from-meetings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;All meeting notes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;all-meeting-notes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#all-meeting-notes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>TestDoc</title>
+      <link>http://localhost:1313/docs/overview/testdoc/</link>
+      <pubDate>Wed, 19 Nov 2025 07:38:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/overview/testdoc/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Getting started in Confluence</title>
+      <link>http://localhost:1313/docs/overview/getting-started-in-confluence/</link>
+      <pubDate>Wed, 19 Nov 2025 07:37:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/overview/getting-started-in-confluence/</guid>
+      <description>
+        
+        
+        &lt;p&gt;🌱&lt;/p&gt;
+&lt;h2&gt;Welcome to Confluence!&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;welcome-to-confluence&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#welcome-to-confluence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can use Confluence to create a rich knowledge base or to collaborate with others using words, videos, images, graphics, charts, and graphs.&lt;/p&gt;
+&lt;p&gt;This page walks you through some Confluence basics like spaces, pages, and elements that allow you to create and manage impactful content for your teams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On this pageOn this page:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome to Confluence!&lt;/li&gt;
+&lt;li&gt;Confluence 101&lt;/li&gt;
+&lt;li&gt;Making purposeful content&lt;/li&gt;
+&lt;li&gt;Collaborating with teammates&lt;/li&gt;
+&lt;li&gt;Organizing your content&lt;/li&gt;
+&lt;li&gt;What’s next?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Confluence 101&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;confluence-101&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#confluence-101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/kaNPNbAT-as%22&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/embed/kaNPNbAT-as%22&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🗃️ Spaces&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-spaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-spaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Spaces are places for individuals, teams, and companies to organize and work on ideas, projects, documentation, and announcements. Spaces can be customized and integrated with both Atlassian tools and others. &lt;a href=&#34;https://confluence.atlassian.com/conf73/create-a-space-991927526.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create&lt;/a&gt; as many spaces as you need to get things done:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:f9245aa3-c3ff-4429-919c-7219c1952326/getting_started_team_spaces.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;team spaces&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;team-spaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#team-spaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Give each team their own space so they can work closely and make information easier to find.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:d692981e-d32e-43db-b254-78d559506044/getting_started_project_spaces.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;project spaces&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;project-spaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#project-spaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Put all the information related to your project in one place so everyone can work together.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:0f2d114f-2bde-43a3-8ba5-c1fc80372f01/getting_started_personal_spaces.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;personal spaces&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;personal-spaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#personal-spaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Store anything you’re working on, keep your to-do lists, and polish content before moving it into a shared space.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;In the main navigation bar, select &lt;code&gt;Spaces&lt;/code&gt; → &lt;code&gt;Create space&lt;/code&gt; to create a new space.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.atlassian.com/software/confluence/guides/get-started/set-up&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about spaces&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;📄 Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Whiteboards&lt;/strong&gt; are your team’s place to brainstorm, build connections, and make ideas come to life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pages&lt;/strong&gt; are the building blocks of Confluence. Drop ideas into a page, to collaborate on, refine, and document work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Blog posts&lt;/strong&gt; are individually-authored pieces of content that illustrate a particular perspective, typically shared broadly—great for documenting case studies or broad insights.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;819214bc-5025-4c16-ac18-b044a30aac4c&#34; data-layout=&#34;default&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/misc-assets/webp-images/content_gif_v1.0.2.webp&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;To create a content within a space, select the &lt;code&gt;+&lt;/code&gt; and choose your content type. You can also create content using the &lt;code&gt;Create&lt;/code&gt; button in the main navigation bar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Press &lt;code&gt;c&lt;/code&gt; to create content at any time.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.atlassian.com/software/confluence/guides/get-started/create-content&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about pages&lt;/a&gt; | &lt;a href=&#34;https://www.atlassian.com/software/confluence/whiteboards&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about whiteboards&lt;/a&gt;&lt;/p&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;Visualize the relationship between spaces and pages&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:68112c56-b891-45fe-8b74-1d4f46afb5d1/getting_started_confluence_model.png&#34; alt=&#34;workflow representing the relationship between spaces and pages&#34;  loading=&#34;lazy&#34; /&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;a href=&#34;#On-this-page&#34;&gt;Back to top ⤴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Making purposeful content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;making-purposeful-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#making-purposeful-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;✏️ Confluence editor&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-confluence-editor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-confluence-editor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Changes can only be made to page content when in the editor. Changes will save automatically and be pushed live the next time the page is published.&lt;/p&gt;
+&lt;h3&gt;🛠️ Templates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-templates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-templates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If you’re not sure where to start when setting up a new space or content, save time with a template.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;4ee70410-a2f8-4c13-a4ee-25f5db543a3a&#34; data-layout=&#34;default&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:253dd176-da3b-49da-8436-7cba38aadf33/getting_started_purposeful_content.png&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Press &lt;code&gt;e&lt;/code&gt; when on a page to open the editor.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/create-a-page-from-a-template&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about templates&lt;/a&gt; | &lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/create-a-space-from-a-template/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Browse space templates&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🧰 Elements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-elements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-elements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Elements are tools like calendars, note panels, and layouts, designed to help you make your content more powerful.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;c6400d5b-e824-4e8b-bd99-7036ad12185f&#34; data-layout=&#34;default&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:e560606b-00c4-46e6-8e8e-87b4cc48e655/getting_started_elements.gif&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Press &lt;code&gt;/&lt;/code&gt; to see a list of elements.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/create-a-space-from-a-template&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about elements&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;📸 Header images&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-header-images&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-header-images&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Make your content more visually impactful with emojis and header images. 🍕 Emojis aren’t just a fun way to spice up your content—they also show up in search, so using them strategically makes it easier to find content later on.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;a03f7e89-c535-470b-81f7-0826ed5d797e&#34; data-layout=&#34;default&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:f58ddedc-3639-4fd9-afcc-7dc7362b90e6/getting_started_header_images.gif&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Select &lt;code&gt;Add status&lt;/code&gt; at the top of the page, so teammates can see your progress at a glance.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/make-your-page-and-its-title-more-memorable&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about header images&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#On-this-page&#34;&gt;Back to top ⤴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Collaborating with teammates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;collaborating-with-teammates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#collaborating-with-teammates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;🧑‍💻 Real-time editing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-real-time-editing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-real-time-editing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You and up to 11 teammates can edit a page together in real time. Changes save and sync automatically so that everyone editing sees the same thing. Start editing together by selecting the &lt;strong&gt;Edit&lt;/strong&gt; icon in the header.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;9b893293-49ca-4e08-b0fc-6d702ae185ac&#34; data-layout=&#34;default&#34;&gt;&lt;colgroup&gt;&lt;col style=&#34;width: 760.0px;&#34;/&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-highlight-colour=&#34;#fffae6&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:2de2caaf-8024-4244-aed7-b3995e7ff3bd/getting_started_realtime_editing.gif&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Press &lt;code&gt;Command + Enter&lt;/code&gt; when in the editor to publish.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/create-edit-and-publish-a-page/#Collaborative-editing&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about collaborative editing&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;💬 Mentions and comments&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-mentions-and-comments&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-mentions-and-comments&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Comments are a great way to start a conversation about a page or blog post. They allow you to remark on content, add important information, ask questions, and generally drive collaboration and teamwork.&lt;/p&gt;
+&lt;p&gt;@mention a teammate to bring them into the conversation, and they can reply to and/or like comments.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;4fc4332a-417b-403a-87e1-5c5b62392a52&#34; data-layout=&#34;default&#34;&gt;&lt;colgroup&gt;&lt;col style=&#34;width: 680.0px;&#34;/&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-highlight-colour=&#34;#e6fcff&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:227fea49-b5b6-4a01-921e-1931f7919848/getting_started_mentions_and_comments.gif&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;Leave comments for your team in different places, depending on the type of feedback you have:&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; **Inline comment →**Added to a highlighted section of the content you are editing or viewing; good for targeted comments on a specific word or phrase.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; **General comment →**Added below the content you are viewing; good for comments that apply to the content as a whole.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Leave an inline comment when viewing a page or in the editor.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/comment-on-pages-and-blog-posts/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about comments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#On-this-page&#34;&gt;Back to top ⤴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Organizing your content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;organizing-your-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#organizing-your-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;🌳 Content tree&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-content-tree&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-content-tree&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The content tree is where your content is organized within a space. Drag and drop to reorder or nest content, so you can more effectively share your work with others.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:667561bb-2450-4179-a333-b797a847fceb/getting_started_page_tree.gif&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;After you publish, select &lt;code&gt;[&lt;/code&gt; to expand or collapse the content tree.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/move-copy-and-hide-pages/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about the content tree&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;📣 Space overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-space-overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-space-overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To help your teammates find relevant content, curate your space overview with useful elements like calendars and content statuses, and include information about what is in your space.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:81fe1309-530c-48b6-9f26-7a75273e710e/getting_started_space_overview.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Use the &lt;code&gt;/info&lt;/code&gt; panel element to highlight important information in your space overview.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/set-up-your-space-homepage/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about space overview&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🌻 Content types&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-content-types&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-content-types&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/misc-assets/webp-images/template-brainwriting-theme-white-v2.svg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;strong&gt;WHITEBOARD&lt;/strong&gt;&lt;/p&gt;
+&lt;h6&gt;If your content still isn’t defined, whiteboards are a quick way to get messy ideas from many collaborators documented.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;if-your-content-still-isnt-defined-whiteboards-are-a-quick-way-to-get-messy-ideas-from-many-collaborators-documented&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#if-your-content-still-isnt-defined-whiteboards-are-a-quick-way-to-get-messy-ideas-from-many-collaborators-documented&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h6&gt;&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/misc-assets/webp-images/template-blogpost.webp&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;strong&gt;BLOG POST&lt;/strong&gt;&lt;/p&gt;
+&lt;h6&gt;If your content that won’t change over time, create it as a blog post. The blog feed for each space displays the most recent posts first.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;if-your-content-that-wont-change-over-time-create-it-as-a-blog-post-the-blog-feed-for-each-space-displays-the-most-recent-posts-first&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#if-your-content-that-wont-change-over-time-create-it-as-a-blog-post-the-blog-feed-for-each-space-displays-the-most-recent-posts-first&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h6&gt;&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/misc-assets/webp-images/template-confluence-chart.webp&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;strong&gt;PAGE&lt;/strong&gt;&lt;/p&gt;
+&lt;h6&gt;If your content may change over time, create it as a page. Pages nest, so you can create categories and subcategories.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;if-your-content-may-change-over-time-create-it-as-a-page-pages-nest-so-you-can-create-categories-and-subcategories&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#if-your-content-may-change-over-time-create-it-as-a-page-pages-nest-so-you-can-create-categories-and-subcategories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h6&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Press &lt;code&gt;k&lt;/code&gt; for a shareable link to your page or post.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.atlassian.com/confluence-cloud/docs/share-a-page-or-blog-post/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about sharing content&lt;/a&gt; | &lt;a href=&#34;https://www.atlassian.com/software/confluence/whiteboards&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about whiteboards&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;📏 Tables&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-tables&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-tables&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tables allow you to organize important information on a page to discuss it with your team. Present the information the way it makes sense to you—resize columns, color cells, rows and columns, and sort the table by clicking the column headers.&lt;/p&gt;
+&lt;div class=&#34;table-container&#34;&gt;
+&lt;table ac:local-id=&#34;672837c8-5bd8-4959-a398-e82b6c3b137b&#34; data-layout=&#34;default&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img alt=&#34;&#34; src=&#34;https://wac-cdn.atlassian.com/dam/jcr:ed02879a-ec4e-4afe-b1c7-e6aff8fff8b5/getting_started_tables.gif&#34;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Type &lt;code&gt;/table&lt;/code&gt; to add a table at any time.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://confluence.atlassian.com/conf73/tables-991927743.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about tables&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🌱 Drafts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-drafts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-drafts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Confluence autosaves your page as you work—if you select &lt;code&gt;Close&lt;/code&gt; in the editor without publishing, you’ll create a draft, or an unpublished page you can get back to at any time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:0ab8f4c6-3406-411d-b665-eee20ed68680/getting_started_drafts.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+draft&lt;strong&gt;Only you can see your draft, unless you share a link to it.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://confluence.atlassian.com/doc/drafts-149040.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about drafts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#On-this-page&#34;&gt;Back to top ⤴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;What’s next?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;whats-next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#whats-next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;🧐 TL;DR&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-tldr&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-tldr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;These are the top three actions we think will help you get the most from Confluence.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Explore a &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Create&lt;/code&gt; a page&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Invite&lt;/code&gt; a teammate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wac-cdn.atlassian.com/dam/jcr:0a05ab8c-ef23-457b-ba5d-1bcb2692561e/getting_started_tldr.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Jira ❤️ Confluence&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;jira--confluence&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#jira--confluence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Choose from 70+ templates to help you structure your thinking, improve documentation quality, and adopt best practices for agile development.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ohtDFXNAUns&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=ohtDFXNAUns&lt;/a&gt;
+&lt;a href=&#34;#On-this-page&#34;&gt;Back to top ⤴&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
